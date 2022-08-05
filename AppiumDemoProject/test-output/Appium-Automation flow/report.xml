@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test_report>
+<info>
+<test_info>
+<test_status>OK</test_status>
+<time_zone>India Standard Time</time_zone>
+<run_started>Fri, 5 Aug 2022 17:21:51</run_started>
+<total_time>00:00:27.999</total_time>
+<project>C:\Users\hp\workspace\appium-project</project>
+<user>hp</user>
+<machine_name>LAPTOP-SDBC8894</machine_name>
+</test_info>
+<device_info>
+<device_name>SM-G781B</device_name>
+<manufacture>samsung</manufacture>
+<model>SM-G781B</model>
+<os>Android</os>
+<serial_number>RZCR904VKSF</serial_number>
+<version>12.0</version>
+<versionMajor>12.x</versionMajor>
+<screen_size>1080x2400</screen_size>
+</device_info>
+</info>
+<reports>
+<report>
+<text>C:\Users\hp\appiumstudio-reports\test38</text>
+<line>Start test Untitled</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>0.PNG</imageFile>
+<text>Device Information&lt;br&gt;
+Name: SM-G781B&lt;br&gt;
+S/N: RZCR904VKSF&lt;br&gt;
+OS: Android&lt;br&gt;
+Manufacture: samsung&lt;br&gt;
+Model: SM-G781B&lt;br&gt;
+Version: 12.0&lt;br&gt;
+Screen size: 1080x2400&lt;br&gt;
+phoneNumber1: Unknown&lt;br&gt;
+phoneNumber2: Unknown&lt;br&gt;
+Connected to: 127.0.0.1:5037&lt;br&gt;
+</text>
+<line>Set device to: adb:SM-G781B</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>1.PNG</imageFile>
+<line>Set property android.native.nonInstrumented to: true</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>2.PNG</imageFile>
+<secondImageFile>3.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Together']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>4.PNG</imageFile>
+<text>Found: true</text>
+<line>Wait for 'xpath=//*[@text='Next']' in zone NATIVE, timeout: 30000</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>5.PNG</imageFile>
+<secondImageFile>6.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>7.PNG</imageFile>
+<secondImageFile>8.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='P']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>9.PNG</imageFile>
+<secondImageFile>10.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='a']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>11.PNG</imageFile>
+<secondImageFile>12.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='t']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>13.PNG</imageFile>
+<secondImageFile>14.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='t']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>15.PNG</imageFile>
+<secondImageFile>16.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='y']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>17.PNG</imageFile>
+<secondImageFile>18.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Next']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>19.PNG</imageFile>
+<secondImageFile>20.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='7']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>21.PNG</imageFile>
+<secondImageFile>22.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='NEXT']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>23.PNG</imageFile>
+<secondImageFile>24.PNG</secondImageFile>
+<line>Click 'xpath=//*[@id='contentPanel']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>25.PNG</imageFile>
+<secondImageFile>26.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Sign in with Google']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>27.PNG</imageFile>
+<secondImageFile>28.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='giritrishul51@gmail.com']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>29.PNG</imageFile>
+<text>Found: true</text>
+<line>Wait for 'xpath=//*[@text='Skip']' in zone NATIVE, timeout: 10000</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>30.PNG</imageFile>
+<secondImageFile>31.PNG</secondImageFile>
+<line>Click 'xpath=//*[@text='Skip']' in zone NATIVE, index: 0, click count: 1</line>
+<status>true</status>
+</report>
+<report>
+<imageFile>32.PNG</imageFile>
+<line>End Test</line>
+<status>true</status>
+</report>
+</reports>
+</test_report>
